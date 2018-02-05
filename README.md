@@ -28,4 +28,4 @@ clears the database
 
 ### Documentation
 
-THe application creates and maintains 2 files: one that is used to hold the data stored, and another to keep track of the byte locations of the entries (by their index). The application is built with node and uses the native 'fs' package for managing file i/o. The 'database' file contains all the logic behind storing and retrieving the data.  
+The application creates and maintains 2 files: one that is used to hold the data stored, and another to keep track of the byte locations of the entries (by their index). The application is built with node and uses the native 'fs' package for managing file i/o. The 'database.js' module contains all the logic behind storing and retrieving the data.  
