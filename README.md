@@ -2,7 +2,7 @@
 
 ### Usage
 
-Pull the repository and run "npm i" if needed
+Clone the repository and run "npm install" if needed
 
 #### Commands (run in a terminal from the root of the project)
 
