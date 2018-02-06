@@ -1,6 +1,8 @@
 # simple-db
 
-### Usage
+### Installation
+
+You need Node.js installed to run this (you can check if you have it installed with by writing 'node --version' in your terminal)
 
 Clone the repository and run "npm install" if needed
 
