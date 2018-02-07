@@ -13,14 +13,14 @@ Clone the repository and run "npm install" if needed
 
 stores data at the specified index
 
-eg: ```node write 0 "{"name":"Kristian"}"```
+eg: ```node write 0 '{"name":"Kristian"}'```
 
 ##### read
 ```> node read {index}```
 
 prints the data stored at the specified index
 
-eg: ```node read 0  --->  {"name":"Kristian"}```
+eg: ```node read 0  --->  "{'name':'Kristian'}"```
 
 ##### wipe
 ```> node wipe```
